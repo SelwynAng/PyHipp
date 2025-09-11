@@ -11,3 +11,4 @@ cd session01
 rm binData.hdf logs.txt slist.txt VirtualMaze*
 
 cd ..
+
